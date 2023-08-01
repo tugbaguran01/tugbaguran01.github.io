@@ -168,6 +168,11 @@
     <Content Include="TEMAM\MyResume\assets\img\apple-touch-icon.png" />
     <Content Include="TEMAM\MyResume\assets\img\favicon.png" />
     <Content Include="TEMAM\MyResume\assets\img\hero-bg.jpg" />
+    <Content Include="TEMAM\MyResume\assets\img\portfolio\CV.1.3.png" />
+    <Content Include="TEMAM\MyResume\assets\img\portfolio\CV.1.4.png" />
+    <Content Include="TEMAM\MyResume\assets\img\portfolio\CV.1.5.jpg" />
+    <Content Include="TEMAM\MyResume\assets\img\portfolio\CV1.1.png" />
+    <Content Include="TEMAM\MyResume\assets\img\portfolio\CV1.2.png" />
     <Content Include="TEMAM\MyResume\assets\img\portfolio\portfolio-1.jpg" />
     <Content Include="TEMAM\MyResume\assets\img\portfolio\portfolio-2.jpg" />
     <Content Include="TEMAM\MyResume\assets\img\portfolio\portfolio-3.jpg" />
